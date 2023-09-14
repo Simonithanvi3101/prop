@@ -142,11 +142,20 @@ This is the Container that we created:
 <img width="1094" alt="Screenshot 2023-09-15 at 00 55 04" src="https://github.com/Simonithanvi3101/prop/assets/85806856/5a2d09ff-ab26-4f27-9cf1-42cfb5732f7c">
 
 
-Further we import all the images, files and folder to the Container so if lost our data from the hardrive we can fetch it back from here.
+Use of Containers:
+1. Static Website Hosting: You can configure a container to host a static website. By placing HTML, CSS, JavaScript files, and other static assets within a container, you can use Azure Blob Storage to serve your website. This is a cost-effective way to host simple websites without the need for a traditional web server.
+
+2. Media and Content Storage: Websites often require hosting images, videos, downloadable files, and other media assets. Containers provide a convenient way to store and serve these assets. You can generate secure URLs (SAS tokens) to allow access to specific content within a container.
+
+3. Backup and Data Storage: Websites may need to store backups, logs, or other data. Containers can be used to organize and store this data securely. Azure Storage provides redundancy and backup options for data durability.
+
+4. File Uploads: If your website allows users to upload files (e.g., user avatars, documents), you can store these uploads in containers. You can implement access controls and validation to manage uploaded content.
+
+So we import all the images, files and folder to the Container so if lost our data from the hardrive we can fetch it back from here as mentioned above.
 <img width="1094" alt="Screenshot 2023-09-15 at 00 57 36" src="https://github.com/Simonithanvi3101/prop/assets/85806856/9cad7a91-5274-47ce-b9f0-ddccec9dc9b7">
 <img width="1094" alt="Screenshot 2023-09-15 at 00 57 56" src="https://github.com/Simonithanvi3101/prop/assets/85806856/89e73d71-330b-42f0-bc98-ed11464994e3">
 
 
 
-## Video Link
+## Video Explaination
 https://drive.google.com/file/d/1Z13mE1jmD22cHEGJ5nl1pSHtsttiy_7u/view?usp=sharing
