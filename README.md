@@ -4,7 +4,7 @@
 # Reading Public Library
 #azurelink https://witty-river-0a74cdd10.3.azurestaticapps.net
 
-## Project Statement
+## Problem Statement
 Inadequate access to essential study materials and limited awareness of available college library resources hinder students' academic success and effective utilization of educational facilities.
 
 ### Industry Type - Ed Tech.
